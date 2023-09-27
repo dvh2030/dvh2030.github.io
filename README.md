@@ -1,28 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Het Anker Homepage</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            max-width: 800px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            line-height: 1.4;
-            color: #666;
-        }
-    </style>
-</head>
-
-
-
-
 # Welcome to the Het Anker Homepage
 
 The [Het Anker homepage](https://www.hetanker.be/nl) is a delightful place to explore a world of fine Belgian beer and historical charm. Located in Mechelen, Belgium, Het Anker is a renowned brewery with a rich history dating back to the 14th century.
