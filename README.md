@@ -21,7 +21,6 @@
 </head>
 
 
-<img src="image.jpg" alt="Het Anker Brewery" width="400">
 
 
 # Welcome to the Het Anker Homepage
